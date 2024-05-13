@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MegaDesk_Warner
 {
-    internal class Desk
+    public class Desk
     {
         public int width {  get; set; }
         public int depth { get; set; }
@@ -24,8 +24,12 @@ namespace MegaDesk_Warner
         public const int MINDRAWERS = 0;
         public const int MAXDRAWERS = 7;
 
-        public Desk() 
+        public Desk(int width, int depth, int drawers, string material) 
         {
+            this.width = width;
+            this.depth = depth;
+            this.drawers = drawers;
+            this.material = material;
 
         }
     }

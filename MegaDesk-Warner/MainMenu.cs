@@ -19,5 +19,10 @@ namespace MegaDesk_Warner
         {
 
         }
+
+        private void ExitBtn_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddQuote));
             button1 = new Button();
             label1 = new Label();
             label2 = new Label();
@@ -41,6 +42,7 @@
             Drawers = new NumericUpDown();
             SurfaceMaterial = new ComboBox();
             RushOrderOptions = new ComboBox();
+            SubmitNewQuote = new Button();
             ((System.ComponentModel.ISupportInitialize)DeskWidth).BeginInit();
             ((System.ComponentModel.ISupportInitialize)DeskDepth).BeginInit();
             ((System.ComponentModel.ISupportInitialize)Drawers).BeginInit();
@@ -125,6 +127,7 @@
             DeskWidth.Name = "DeskWidth";
             DeskWidth.Size = new Size(130, 31);
             DeskWidth.TabIndex = 8;
+            DeskWidth.Validating += DeskWidth_Validating;
             // 
             // DeskDepth
             // 
@@ -132,6 +135,7 @@
             DeskDepth.Name = "DeskDepth";
             DeskDepth.Size = new Size(130, 31);
             DeskDepth.TabIndex = 9;
+            DeskDepth.Validating += DeskDepth_Validating;
             // 
             // Drawers
             // 
@@ -139,6 +143,7 @@
             Drawers.Name = "Drawers";
             Drawers.Size = new Size(130, 31);
             Drawers.TabIndex = 10;
+            Drawers.Validating += Drawers_Validating;
             // 
             // SurfaceMaterial
             // 
@@ -161,12 +166,23 @@
             RushOrderOptions.TabIndex = 12;
             RushOrderOptions.Text = "Choose";
             // 
+            // SubmitNewQuote
+            // 
+            SubmitNewQuote.Location = new Point(255, 498);
+            SubmitNewQuote.Name = "SubmitNewQuote";
+            SubmitNewQuote.Size = new Size(144, 59);
+            SubmitNewQuote.TabIndex = 13;
+            SubmitNewQuote.Text = "Add Quote";
+            SubmitNewQuote.UseVisualStyleBackColor = true;
+            SubmitNewQuote.Click += SubmitNewQuote_Click;
+            // 
             // AddQuote
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             CancelButton = button1;
             ClientSize = new Size(874, 740);
+            Controls.Add(SubmitNewQuote);
             Controls.Add(RushOrderOptions);
             Controls.Add(SurfaceMaterial);
             Controls.Add(Drawers);
@@ -180,6 +196,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(button1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "AddQuote";
             Text = "Add New Quote";
             ((System.ComponentModel.ISupportInitialize)DeskWidth).EndInit();
@@ -204,5 +221,6 @@
         private NumericUpDown Drawers;
         private ComboBox SurfaceMaterial;
         private ComboBox RushOrderOptions;
+        private Button SubmitNewQuote;
     }
 }

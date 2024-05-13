@@ -73,6 +73,7 @@
             ExitBtn.TabIndex = 3;
             ExitBtn.Text = "Exit";
             ExitBtn.UseVisualStyleBackColor = true;
+            ExitBtn.Click += ExitBtn_Click;
             // 
             // pictureBox1
             // 
@@ -93,6 +94,7 @@
             Controls.Add(ViewQuoteBtn);
             Controls.Add(SearchQuoteBtn);
             Controls.Add(NewQuoteBtn);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MainMenu";
             Text = "MegaDesk-Warner";
             Load += MainMenu_Load;

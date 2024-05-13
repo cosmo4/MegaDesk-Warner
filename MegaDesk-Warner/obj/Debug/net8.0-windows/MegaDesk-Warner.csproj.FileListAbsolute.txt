@@ -19,3 +19,4 @@ C:\Users\warne\Respositories\MegaDesk-Warner\MegaDesk-Warner\obj\Debug\net8.0-wi
 C:\Users\warne\Respositories\MegaDesk-Warner\MegaDesk-Warner\obj\Debug\net8.0-windows\MegaDesk-Warner.pdb
 C:\Users\warne\Respositories\MegaDesk-Warner\MegaDesk-Warner\obj\Debug\net8.0-windows\MegaDesk-Warner.genruntimeconfig.cache
 C:\Users\warne\Respositories\MegaDesk-Warner\MegaDesk-Warner\obj\Debug\net8.0-windows\ref\MegaDesk-Warner.dll
+C:\Users\warne\Respositories\MegaDesk-Warner\MegaDesk-Warner\obj\Debug\net8.0-windows\MegaDesk_Warner.Properties.Resources.resources

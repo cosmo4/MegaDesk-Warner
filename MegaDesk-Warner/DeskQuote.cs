@@ -6,17 +6,20 @@ using System.Threading.Tasks;
 
 namespace MegaDesk_Warner
 {
-    internal class DeskQuote
+    public class DeskQuote
     {
         public string customerName {  get; set; }
-        public int rushDays {  get; set; }
+        public string rushDays {  get; set; }
         public string quoteDate { get; set; }
         public Desk Desk { get; set; }
 
 
-
-        public DeskQuote() 
+        public DeskQuote(string customerName, string rushDays, string quoteDate, Desk desk) 
         { 
+            this.customerName = customerName;
+            this.rushDays = rushDays;
+            this.quoteDate = quoteDate;
+            this.Desk = desk;
         
         }
     }
