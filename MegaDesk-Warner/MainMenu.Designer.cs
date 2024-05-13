@@ -28,15 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainMenu));
             NewQuoteBtn = new Button();
             SearchQuoteBtn = new Button();
             ViewQuoteBtn = new Button();
             ExitBtn = new Button();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // NewQuoteBtn
             // 
-            NewQuoteBtn.Location = new Point(106, 83);
+            NewQuoteBtn.Location = new Point(134, 83);
             NewQuoteBtn.Name = "NewQuoteBtn";
             NewQuoteBtn.Size = new Size(157, 73);
             NewQuoteBtn.TabIndex = 0;
@@ -46,7 +49,7 @@
             // 
             // SearchQuoteBtn
             // 
-            SearchQuoteBtn.Location = new Point(106, 304);
+            SearchQuoteBtn.Location = new Point(134, 304);
             SearchQuoteBtn.Name = "SearchQuoteBtn";
             SearchQuoteBtn.Size = new Size(157, 73);
             SearchQuoteBtn.TabIndex = 1;
@@ -55,7 +58,7 @@
             // 
             // ViewQuoteBtn
             // 
-            ViewQuoteBtn.Location = new Point(106, 191);
+            ViewQuoteBtn.Location = new Point(134, 191);
             ViewQuoteBtn.Name = "ViewQuoteBtn";
             ViewQuoteBtn.Size = new Size(157, 79);
             ViewQuoteBtn.TabIndex = 2;
@@ -64,24 +67,36 @@
             // 
             // ExitBtn
             // 
-            ExitBtn.Location = new Point(106, 415);
+            ExitBtn.Location = new Point(134, 415);
             ExitBtn.Name = "ExitBtn";
             ExitBtn.Size = new Size(157, 73);
             ExitBtn.TabIndex = 3;
             ExitBtn.Text = "Exit";
             ExitBtn.UseVisualStyleBackColor = true;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(448, 153);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(273, 267);
+            pictureBox1.TabIndex = 4;
+            pictureBox1.TabStop = false;
+            // 
             // MainMenu
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(964, 578);
+            ClientSize = new Size(870, 585);
+            Controls.Add(pictureBox1);
             Controls.Add(ExitBtn);
             Controls.Add(ViewQuoteBtn);
             Controls.Add(SearchQuoteBtn);
             Controls.Add(NewQuoteBtn);
             Name = "MainMenu";
             Text = "MegaDesk-Warner";
+            Load += MainMenu_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -91,5 +106,6 @@
         private Button SearchQuoteBtn;
         private Button ViewQuoteBtn;
         private Button ExitBtn;
+        private PictureBox pictureBox1;
     }
 }

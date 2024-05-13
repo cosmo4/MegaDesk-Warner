@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|c:\\users\\warne\\respositories\\megadesk-warner\\megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|c:\\users\\warne\\respositories\\megadesk-warner\\megadesk-warner\\addquote.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\addquote.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|c:\\users\\warne\\respositories\\megadesk-warner\\megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|c:\\users\\warne\\respositories\\megadesk-warner\\megadesk-warner\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|c:\\users\\warne\\respositories\\megadesk-warner\\megadesk-warner\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\megadesk-warner\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|c:\\users\\warne\\respositories\\megadesk-warner\\megadesk-warner\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A3A9D3-59DB-4DDD-B329-25EA60ECD1DB}|MegaDesk-Warner\\MegaDesk-Warner.csproj|solutionrelative:megadesk-warner\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,81 +38,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\MainMenu.Designer.cs",
-              "RelativeDocumentMoniker": "MegaDesk-Warner\\MainMenu.Designer.cs",
-              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\MainMenu.Designer.cs",
-              "RelativeToolTip": "MegaDesk-Warner\\MainMenu.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAATAAAA",
+              "DocumentIndex": 3,
+              "Title": "Desk.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\Desk.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Warner\\Desk.cs",
+              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\Desk.cs",
+              "RelativeToolTip": "MegaDesk-Warner\\Desk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:57:48.887Z",
+              "WhenOpened": "2024-05-13T05:23:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddQuote.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\AddQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Warner\\AddQuote.cs",
+              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\AddQuote.cs",
+              "RelativeToolTip": "MegaDesk-Warner\\AddQuote.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:09:35.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ViewAllQuotes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\ViewAllQuotes.cs",
-              "RelativeDocumentMoniker": "MegaDesk-Warner\\ViewAllQuotes.cs",
-              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\ViewAllQuotes.cs [Design]",
-              "RelativeToolTip": "MegaDesk-Warner\\ViewAllQuotes.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:52:15.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DisplayQuote.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\DisplayQuote.cs",
-              "RelativeDocumentMoniker": "MegaDesk-Warner\\DisplayQuote.cs",
-              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\DisplayQuote.cs [Design]",
-              "RelativeToolTip": "MegaDesk-Warner\\DisplayQuote.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:51:41.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SearchQuotes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\SearchQuotes.cs",
-              "RelativeDocumentMoniker": "MegaDesk-Warner\\SearchQuotes.cs",
-              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\SearchQuotes.cs [Design]",
-              "RelativeToolTip": "MegaDesk-Warner\\SearchQuotes.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:51:13.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AddQuote.cs [Design]",
               "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\AddQuote.cs",
               "RelativeDocumentMoniker": "MegaDesk-Warner\\AddQuote.cs",
               "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\AddQuote.cs [Design]",
               "RelativeToolTip": "MegaDesk-Warner\\AddQuote.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:47:43.307Z"
+              "WhenOpened": "2024-05-13T04:47:43.307Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\MainMenu.cs",
               "RelativeDocumentMoniker": "MegaDesk-Warner\\MainMenu.cs",
               "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\MainMenu.cs",
               "RelativeToolTip": "MegaDesk-Warner\\MainMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T04:39:29.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainMenu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\MainMenu.cs",
               "RelativeDocumentMoniker": "MegaDesk-Warner\\MainMenu.cs",
@@ -121,6 +102,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T04:31:26.802Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeskQuote.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\DeskQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Warner\\DeskQuote.cs",
+              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\DeskQuote.cs",
+              "RelativeToolTip": "MegaDesk-Warner\\DeskQuote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:33:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddQuote.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\AddQuote.Designer.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Warner\\AddQuote.Designer.cs",
+              "ToolTip": "C:\\Users\\warne\\Respositories\\MegaDesk-Warner\\MegaDesk-Warner\\AddQuote.Designer.cs",
+              "RelativeToolTip": "MegaDesk-Warner\\AddQuote.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:58:32.678Z",
+              "EditorCaption": ""
             }
           ]
         }

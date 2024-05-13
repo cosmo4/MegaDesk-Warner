@@ -14,5 +14,10 @@ namespace MegaDesk_Warner
             viewAddQuote.Show(this);
             Hide();
         }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
