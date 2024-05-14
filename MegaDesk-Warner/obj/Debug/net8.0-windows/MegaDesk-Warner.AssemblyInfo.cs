@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MegaDesk-Warner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98d853fd9e63ee02c12ed788d64c2adddf8ef971")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4f5691784938353ac7520adaa77bc1abd28e77")]
 [assembly: System.Reflection.AssemblyProductAttribute("MegaDesk-Warner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MegaDesk-Warner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
